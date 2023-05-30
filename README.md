@@ -1,5 +1,4 @@
-
-# First Contributions using Git and GitHub
+# How to contribute using Git and GitHub
 
 This is a guide for beginners on how to make a contribution using Git and GitHub. 
 If you are looking to make your first contribution, follow the steps below.
@@ -12,24 +11,19 @@ an account on GitHub. It is for free and should just take some minutes.
 
 # 3. Fork this repository 
 by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 # 4. Clone the forked repository
- to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon. 
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-Open a terminal and run the following git command:
-
+Then, open a terminal and run the following git command:
 ```
 git clone "url you just copied"
 ```
-
-
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
-
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 For example:
 
@@ -44,7 +38,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd ds_summer23
 ```
 
 Now create a branch using the `git switch` command:
@@ -60,7 +54,8 @@ git switch -c add-Stephan-Huber
 ```
 # 6. Make changes 
 
-Now open the`I_am_a_data_scientist.md` file in a text editor and add your name to it. You find this file in the repository. 
+Now open the`I_am_a_data_scientist.md` file in a text editor. (You find this file in the repository.)
+Add your name, your GitHub account and the paper that you want to reproduce to it. 
 Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
@@ -69,7 +64,7 @@ If you go to the project directory and execute the command `git status`, you'll 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add Contributors.md
+git add .
 ```
 
 ## 8. Commit changes
@@ -86,10 +81,10 @@ replacing `your-name` with your name.
 Push your changes using the command `git push`:
 
 ```
-git push -u origin your-branch-name
+git push -u origin your-new-branch-name
 ```
 
-replacing `your-branch-name` with the name of the branch you created earlier.
+replacing `your-new-branch-name` with the name of the branch you created earlier.
 
 <details>
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
@@ -117,5 +112,8 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+
+
+
 
 

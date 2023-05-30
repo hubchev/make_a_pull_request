@@ -2,6 +2,9 @@
 
 <!-- prettier-ignore-start -->
 
-Please put your first and second name here and link it to your GitHub profile. 
+Please put your first and second name here, link it to your GitHub profile, and provide the title of the paper that you aim to reproduce. 
 
-- [Stephan Huber](https://github.com/hubchev)
+- [Stephan Huber](https://github.com/hubchev): _Title of the paper_
+
+
+Thanks. 
