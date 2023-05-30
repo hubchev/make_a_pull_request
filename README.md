@@ -60,14 +60,14 @@ Don't add it at the beginning or end of the file. Put it anywhere in between. No
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
-## 7. Add changes (staging).
+# 7. Add changes (staging).
 Add those changes to the branch you just created using the `git add` command:
 
 ```
 git add .
 ```
 
-## 8. Commit changes.
+# 8. Commit changes.
 Now commit those changes using the `git commit` command:
 
 ```
@@ -85,7 +85,7 @@ git config --global user.name "FIRST_NAME LAST_NAME"
 git config --global user.email "MY_NAME@example.com"
 ```
 
-## 10. Push changes to GitHub.
+# 10. Push changes to GitHub.
 
 Push your changes using the command `git push`:
 
