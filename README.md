@@ -1,4 +1,8 @@
-# How to contribute using Git and GitHub
+Note 2023-05-24T10.16.27
+========================
+
+
+# First Contributions using Git and GitHub
 
 This is a guide for beginners on how to make a contribution using Git and GitHub. 
 If you are looking to make your first contribution, follow the steps below.
@@ -76,7 +80,16 @@ git commit -m "Add your-name to the list"
 
 replacing `your-name` with your name.
 
-## 9. Push changes to GitHub
+
+# 9. Use Git Bash 
+Open Git Bash and set your email and your nickname on GitHub:
+
+```
+git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "MY_NAME@example.com"
+```
+
+## 10. Push changes to GitHub
 
 Push your changes using the command `git push`:
 
@@ -97,7 +110,7 @@ replacing `your-new-branch-name` with the name of the branch you created earlier
 
 </details>
 
-# 10. Submit your changes for review on GitHub
+# 11. Submit your changes for review on GitHub
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
@@ -113,7 +126,7 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
 
-
+If you write a project report for the Hochschule Fresenius, don't forget to mention that you have successfully gone through that tutorial!
 
 
 
