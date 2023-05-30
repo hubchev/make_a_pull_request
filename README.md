@@ -1,7 +1,3 @@
-Note 2023-05-24T10.16.27
-========================
-
-
 # First Contributions using Git and GitHub
 
 This is a guide for beginners on how to make a contribution using Git and GitHub. 
