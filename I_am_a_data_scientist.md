@@ -8,7 +8,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 
 - [Vitthal Shukla](https://github.com/VitthalGit): _Exploring Well Being in the UK between 2011 and 2014_
 
-- [Valeria Ortega](https://github.com/VaalOP): _Hacking Gender Stereotypes: Girls’ Participation in Coding Clubs_
+- [Valeria Ortega Porles](https://github.com/VaalOP): _Hacking Gender Stereotypes: Girls’ Participation in Coding Clubs_
 
 
 - [Aynur Didem Evin](https://github.com/didemevin): _Lie Prevalence, Lie Characteristics and Strategies of Self-reported Good Liars_
