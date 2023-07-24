@@ -5,7 +5,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Stephan Huber](https://github.com/hubchev): _Title of the paper_
  
 - [Sonali Agrawal](https://github.com/SonaliAgraw): _Data_Science_report_Presentation_Vitthal-Shukla_Sonali-Agrawal_Huber_
-- [Vitthal Shukla](https://github.com/VitthalGit): _Exploring Well Being in the UK between 2011 and 2014
+- [Vitthal Shukla](https://github.com/VitthalGit): _Exploring Well Being in the UK between 2011 and 2014_
 - [Katharina Wagner](https://github.com/Katwag99): _Measuring Human Capital_
 - [Shekoofeh Ansari](https://github.com/shekoofehansari): _Diabetes and Related Factors_
 - [Valeria Ortega Porles](https://github.com/VaalOP): _Hacking Gender Stereotypes: Girls’ Participation in Coding Clubs_
