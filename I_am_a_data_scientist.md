@@ -18,4 +18,6 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Bahar Dabir](https://github.com/BaharDabir/)): _Business Resilience During Covid-19_
 - [Benedikt Klutmann/Steffen Scherrer](https://github.com/BenFrese): _Unveiling the Enigma of Penalty Shootouts_
 
+- [Umesh kumar pareek/Khushboo singh](https://github.com/umeshpareek15): _Migrants,Refugees and Societies_
+
 Thanks. 
