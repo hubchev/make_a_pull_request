@@ -17,5 +17,5 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Yashashree Balwadkar](https://github.com/BalwadkarYashashree): _Brexit: The Economics of International Disintegration_
 - [Bahar Dabir](https://github.com/BaharDabir/)): _Business Resilience During Covid-19_
 - [Benedikt Klutmann/Steffen Scherrer](https://github.com/BenFrese): _Unveiling the Enigma of Penalty Shootouts_
-
+- [Khushboo Singh](https://github.com/khushboosingh16):_Migrants Refugees and societies_
 Thanks. 
