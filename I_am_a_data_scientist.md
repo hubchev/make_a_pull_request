@@ -3,6 +3,7 @@
 Please put your first and second name here, link it to your GitHub profile, and provide the title of the paper that you aim to reproduce. 
 
 - [Stephan Huber](https://github.com/hubchev): _Title of the paper_
+- [Gina Overath](https://github.com/ginove1312): _Women in Economics: Stalled Progress_
 - [Sonali Agrawal](https://github.com/SonaliAgraw): _Data Science report Presentation Vitthal-Shukla Sonali-Agrawal Huber_
 - [Vitthal Shukla](https://github.com/VitthalGit): _Exploring Well Being in the UK between 2011 and 2014_
 - [Katharina Wagner](https://github.com/Katwag99): _Measuring Human Capital_
