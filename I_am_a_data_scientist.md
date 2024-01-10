@@ -22,5 +22,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Mansoure Rahaei](https://github.com/mansourerahaei): _Do Poverty Traps Exist_
 - [Noha Metwally](https://github.com/NohaMetwally82): _Achieving Universal Health Insurance Coverage in the United States: 
 Addressing Market Failures or Providing a Social Floor?_
+- [Ritika Parmar](https://github.com/Ritika-Parmar/Ritika):_Crime, the Criminal Justice System, and 
+Socioeconomic Inequality_
 
 Thanks. 
