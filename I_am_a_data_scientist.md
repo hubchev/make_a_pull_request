@@ -22,5 +22,6 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Mansoure Rahaei](https://github.com/mansourerahaei): _Do Poverty Traps Exist_
 - [Noha Metwally](https://github.com/NohaMetwally82): _Achieving Universal Health Insurance Coverage in the United States: 
 Addressing Market Failures or Providing a Social Floor?_
+- [Harsh Tamakuwala](https://github.com/harshtamakuwala):_The Rise of Research Teams: Benefits and Costs in Economics_
 
 Thanks. 
