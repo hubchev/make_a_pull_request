@@ -13,6 +13,8 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Natalie Halezki](https://github.com/HalNatalie): _Achieving Universal Health Insurance Coverage in the United States: Addressing Market Failures or Providing Social Floor?_
 - [Masoumeh Teymourzadeh](https://github.com/Mastanetmr): _LGBTQ Economics_
 - [Paras Negi](https://github.com/ParasNegi88): _Five Facts about Value-Added Exports and Implications for Macroeconomics and Trade Research_
+- [Harsh Tamakuwala](https://github.com/harshtamakuwala/ds_summer23.git): _The Rise of Research Teams: Benefits and Costs in Economics_
+  
 
 
 Thanks. 
