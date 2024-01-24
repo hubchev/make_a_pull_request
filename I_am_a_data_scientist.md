@@ -23,5 +23,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Noha Metwally](https://github.com/NohaMetwally82): _Achieving Universal Health Insurance Coverage in the United States: 
 Addressing Market Failures or Providing a Social Floor?_
 - [Danielle Aldaghestani](https://github.com/danielle798): _Social Media and Corruption_
+- [Ritika Parmar](https://github.com/Ritika-Parmar/Ritika):_Crime, the Criminal Justice System, and 
+Socioeconomic Inequality_
 
 Thanks. 
