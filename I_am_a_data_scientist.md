@@ -14,6 +14,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Natalie Halezki](https://github.com/HalNatalie): _Achieving Universal Health Insurance Coverage in the United States: Addressing Market Failures or Providing Social Floor?_
 - [Masoumeh Teymourzadeh](https://github.com/Mastanetmr): _LGBTQ Economics_
 - [Paras Negi](https://github.com/ParasNegi88): _Five Facts about Value-Added Exports and Implications for Macroeconomics and  Trade Research_
+- [Cedric Walberger](https://github.com/cedricwalberger): _Constraints on City and Neighborhood Growth: The Central Role of Housing Supply_
 - [Ashifuddin Mandal](https://github.com/Ashifuddinmandal?tab=repositories): _Analyses Of LNG Plant Constructions Engineering Deliverables Progress, Planned & Forecast_
 - [Yashashree Balwadkar](https://github.com/BalwadkarYashashree): _Brexit: The Economics of International Disintegration_
 - [Bahar Dabir](https://github.com/BaharDabir/): _Business Resilience During Covid-19_
