@@ -26,5 +26,7 @@ Addressing Market Failures or Providing a Social Floor?_
 - [Danielle Aldaghestani](https://github.com/danielle798): _Social Media and Corruption_
 - [Ritika Parmar](https://github.com/Ritika-Parmar/Ritika):_Crime, the Criminal Justice System, and 
 Socioeconomic Inequality_
-[Harsh Tamakuwala](https://github.com/harshtamakuwala/ds_summer23.git): _The Rise of Research Teams: Benefits and Costs in Economics_
-Thanks. 
+- [Harsh Tamakuwala](https://github.com/harshtamakuwala/ds_summer23.git): _The Rise of Research Teams: Benefits and Costs in Economics_
+- [Prashanth Antony](https://github.com/Prashanthantony): _The Judge, the Politician, and the Press: Newspaper Coverage and Criminal Sentencing across Electoral Systems_
+Thanks.
+
