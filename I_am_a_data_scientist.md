@@ -30,7 +30,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Danielle Aldaghestani](https://github.com/danielle798): _Social Media and Corruption_
 - [Janice Talosig](https://github.com/janicetalosig):_Emerging Market Sovereign Debt in the Aftermath of the Pandemic_
 - [Ritika Parmar](https://github.com/Ritika-Parmar/Ritika):_Crime, the Criminal Justice System, and Socioeconomic Inequality_
-- [Syed Mohd Anas](https://github.com/SyedAnas667):_A Replication Study on Indian Automobiles using R_
+- [Syed Mohd Anas](https://github.com/SyedAnas667):_A Replication  Study on Indian Automobiles using R_
 - [Olinda Maryann Braganza](https://github.com/OlinMB):_How Often Does Active Learning Actually Occur Perception versus Reality_
 - [Nikhil Pokharkar](https://github.com/nvpokharkar): _Gendered Impacts of COVID-19 in Developing Countries_
 - [Harsh Tamakuwala](https://github.com/harshtamakuwala/ds_summer23.git): _The Rise of Research Teams: Benefits and Costs in Economics_
