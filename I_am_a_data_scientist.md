@@ -14,6 +14,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Aynur Didem Evin](https://github.com/didemevin): _Lie Prevalence, Lie Characteristics and Strategies of Self-reported Good Liars_
 - [Natalie Halezki](https://github.com/HalNatalie): _Achieving Universal Health Insurance Coverage in the United States: Addressing Market Failures or Providing Social Floor?_
 - [Masoumeh Teymourzadeh](https://github.com/Mastanetmr): _LGBTQ Economics_
+- [Shekoofeh Ansari] (https://github.com/shekoofehansari3): _Improving Efficiency of Delivery Time Prediction_
 - [Paras Negi](https://github.com/ParasNegi88): _Five Facts about Value-Added Exports and Implications for Macroeconomics and  Trade Research_
 - [Cedric Walberger](https://github.com/cedricwalberger): _Constraints on City and Neighborhood Growth: The Central Role of Housing Supply_
 - [Ashifuddin Mandal](https://github.com/Ashifuddinmandal?tab=repositories): _Analyses Of LNG Plant Constructions Engineering Deliverables Progress, Planned & Forecast_
@@ -31,3 +32,4 @@ Socioeconomic Inequality_
 - [Ankita Gairola](https://github.com/AnkitaGairola): _Factor Immobility and Regional Impacts of Trade Liberalization: Evidence on Poverty from India_
 - [Prashanth Antony](https://github.com/Prashanthantony): _The Judge, the Politician, and the Press: Newspaper Coverage and Criminal Sentencing across Electoral Systems_
 Thanks.
+
