@@ -3,6 +3,7 @@
 Please put your first and second name here, link it to your GitHub profile, and provide the title of the paper that you aim to reproduce. 
 
 - [Stephan Huber](https://github.com/hubchev): _Title of the paper_
+- [Philipp Tillmann](https://github.com/tillmannphilipp99): _The Price of Nails Since 1695: A Window into Economic Change_
 - [Lisanne vom Schemm](https://github.com/lisanneschemm):_Brexit: The Economics of International Disintegration_
 - [Gina Overath](https://github.com/gover1312): _Women in Economics: Stalled Progress_
 - [Sonali Agrawal](https://github.com/SonaliAgraw): _Data Science report Presentation Vitthal-Shukla Sonali-Agrawal Huber_
@@ -26,6 +27,7 @@ Addressing Market Failures or Providing a Social Floor?_
 - [Danielle Aldaghestani](https://github.com/danielle798): _Social Media and Corruption_
 - [Ritika Parmar](https://github.com/Ritika-Parmar/Ritika):_Crime, the Criminal Justice System, and 
 Socioeconomic Inequality_
-[Harsh Tamakuwala](https://github.com/harshtamakuwala/ds_summer23.git): _The Rise of Research Teams: Benefits and Costs in Economics_
+- [Harsh Tamakuwala](https://github.com/harshtamakuwala/ds_summer23.git): _The Rise of Research Teams: Benefits and Costs in Economics_
 - [Ankita Gairola](https://github.com/AnkitaGairola): _Factor Immobility and Regional Impacts of Trade Liberalization: Evidence on Poverty from India_
-Thanks. 
+- [Prashanth Antony](https://github.com/Prashanthantony): _The Judge, the Politician, and the Press: Newspaper Coverage and Criminal Sentencing across Electoral Systems_
+Thanks.
