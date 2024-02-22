@@ -8,6 +8,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Lisanne vom Schemm](https://github.com/lisanneschemm):_Brexit: The Economics of International Disintegration_
 - [Gina Overath](https://github.com/gover1312): _Women in Economics: Stalled Progress_
 - [Felix Meven] (https://github.com/Flix1000): Profiting from Regulation: Evidence from the European Carbon Market
+- [Qusai Alrabadi](https://github.com/QALRAB): _Review on: The Phillips Curve and Global Inflationary Pressures_
 - [Sonali Agrawal](https://github.com/SonaliAgraw): _Data Science report Presentation Vitthal-Shukla Sonali-Agrawal Huber_
 - [Vitthal Shukla](https://github.com/VitthalGit): _Exploring Well Being in the UK between 2011 and 2014_
 - [Katharina Wagner](https://github.com/Katwag99): _Measuring Human Capital_
