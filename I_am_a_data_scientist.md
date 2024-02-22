@@ -3,6 +3,7 @@
 Please put your first and second name here, link it to your GitHub profile, and provide the title of the paper that you aim to reproduce. 
 
 - [Stephan Huber](https://github.com/hubchev): _Title of the paper_
+- [Phromphorn Phornmahachai](https://github.com/ploypmpn): _The Ongoing Evolution of US Retail a Format Tug of War_
 - [Philipp Tillmann](https://github.com/tillmannphilipp99): _The Price of Nails Since 1695: A Window into Economic Change_
 - [Lisanne vom Schemm](https://github.com/lisanneschemm):_Brexit: The Economics of International Disintegration_
 - [Gina Overath](https://github.com/gover1312): _Women in Economics: Stalled Progress_
@@ -30,11 +31,13 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Danielle Aldaghestani](https://github.com/danielle798): _Social Media and Corruption_
 - [Janice Talosig](https://github.com/janicetalosig):_Emerging Market Sovereign Debt in the Aftermath of the Pandemic_
 - [Ritika Parmar](https://github.com/Ritika-Parmar/Ritika):_Crime, the Criminal Justice System, and Socioeconomic Inequality_
+- [Syed Mohd Anas](https://github.com/SyedAnas667):_A Replication  Study on Indian Automobiles using R_
 - [Olinda Maryann Braganza](https://github.com/OlinMB):_How Often Does Active Learning Actually Occur Perception versus Reality_
 - [Nikhil Pokharkar](https://github.com/nvpokharkar): _Gendered Impacts of COVID-19 in Developing Countries_
 - [Harsh Tamakuwala](https://github.com/harshtamakuwala/ds_summer23.git): _The Rise of Research Teams: Benefits and Costs in Economics_
 - [Ankita Gairola](https://github.com/AnkitaGairola): _Factor Immobility and Regional Impacts of Trade Liberalization: Evidence on Poverty from India_
 - [Prashanth Antony](https://github.com/Prashanthantony): _The Judge, the Politician, and the Press: Newspaper Coverage and Criminal Sentencing across Electoral Systems_
 - [Rebecca Tevar]((https://github.com/RebeccaTevar)): _Selection in Health Insurance Markets and Its Policy Remedies_
+- [Yash Gupta](https://github.com/yash8372): _Every Day Is Earth Day: Evidence on the Long-Term Impact of Environmental Activism_
 Thanks.
 
