@@ -3,6 +3,8 @@
 This is a guide for beginners on how to make a contribution using Git and GitHub. 
 If you are looking to make your first contribution, follow the steps below.
 
+As a complement to the instructions below, feel free to watch [this video](https://youtu.be/1UhCR-xHZOM) where I do all the following steps in real time. It takes about 15 minutes.
+
 # 1. Create an account on GitHub. 
 It is for free and should just take some minutes.
 
@@ -28,7 +30,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone https://github.com/hubchev/ds_summer23.git
+git clone https://github.com/this-is-you/make_a_pull_request.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
@@ -38,7 +40,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd ds_summer23
+cd make_a_pull_request
 ```
 
 Now create a branch using the `git switch` command:
