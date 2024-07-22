@@ -40,6 +40,6 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Prashanth Antony](https://github.com/Prashanthantony): _The Judge, the Politician, and the Press: Newspaper Coverage and Criminal Sentencing across Electoral Systems_
 - [Rebecca Tevar](https://github.com/RebeccaTevar): _Selection in Health Insurance Markets and Its Policy Remedies_
 - [Yash Gupta](https://github.com/yash8372): _Every Day Is Earth Day: Evidence on the Long-Term Impact of Environmental Activism_
-
+- [Sanjeev Nagadadinni] (https://github.com/Sanjeev0906198): _The Rise of Research Teams: Benefits and Costs in Economics_
 Thanks.
 
