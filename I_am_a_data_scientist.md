@@ -41,6 +41,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Rebecca Tevar](https://github.com/RebeccaTevar): _Selection in Health Insurance Markets and Its Policy Remedies_
 - [Yash Gupta](https://github.com/yash8372): _Every Day Is Earth Day: Evidence on the Long-Term Impact of Environmental Activism_
 - [Sanjeev Nagadadinni] (https://github.com/Sanjeev0906198): _The Rise of Research Teams: Benefits and Costs in Economics_
+- [Pooja Ravanasamuthram Krishnan](https://github.com/PoojaKrishnan1007): _Economic Sanctions: Evolution, Consequences, and Challenges_
 - [Mahsa Abdollahi Mirzanagh](https://github.com/MahsaAbdollahiM): _Neighborhoods Matter: Assessing the Evidence for Place Effects_
 - [Venkatesh Kannan](https://github.com/VenkateshKannan1999): _The Puzzle of Falling Birthrates in the USA_
 Thanks.
