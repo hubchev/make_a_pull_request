@@ -11,6 +11,8 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Qusai Alrabadi](https://github.com/QALRAB): _Review on: The Phillips Curve and Global Inflationary Pressures_
 - [Sonali Agrawal](https://github.com/SonaliAgraw): _Data Science report Presentation Vitthal-Shukla Sonali-Agrawal Huber_
 - [Vitthal Shukla](https://github.com/VitthalGit): _Exploring Well Being in the UK between 2011 and 2014_
+- Nimra Umer | @nimraumer | Reproducing “An Introduction to Deep Learning” by Goodfellow et al.
+
 - [Katharina Wagner](https://github.com/Katwag99): _Measuring Human Capital_
 - [Shekoofeh Ansari](https://github.com/shekoofehansari): _Diabetes and Related Factors_
 - [Mona Claßen](https://github.com/monaongit): _COVID-19, School Closures, and Outcomes_
