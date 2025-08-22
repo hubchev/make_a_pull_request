@@ -6,6 +6,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Phromphorn Phornmahachai](https://github.com/ploypmpn): _The Ongoing Evolution of US Retail a Format Tug of War_
 - [Philipp Tillmann](https://github.com/tillmannphilipp99): _The Price of Nails Since 1695: A Window into Economic Change_
 - [Lisanne vom Schemm](https://github.com/lisanneschemm):_Brexit: The Economics of International Disintegration_
+- [Yu-Chiao Tseng](https://github.com/yuchiao931): _Immigration and Crime: An International Perspective_
 - [Gina Overath](https://github.com/gover1312): _Women in Economics: Stalled Progress_
 - [Felix Meven](https://github.com/Flix1000): _Profiting from Regulation: Evidence from the European Carbon Market_
 - [Qusai Alrabadi](https://github.com/QALRAB): _Review on: The Phillips Curve and Global Inflationary Pressures_
@@ -47,7 +48,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Mahsa Abdollahi Mirzanagh](https://github.com/MahsaAbdollahiM): _Neighborhoods Matter: Assessing the Evidence for Place Effects_
 - [Venkatesh Kannan](https://github.com/VenkateshKannan1999): _The Puzzle of Falling Birthrates in the USA_
 - [Abdalla Mohamed](https://github.com/abdalla-mohamed36): _The Political Economy of Industrial Policy_ 
-Thanks.
 - [Anvith Amin](https://github.com/anvitho07): _The Political Economy of Industrial Policy_
 - [Manjunath Mallikarjun Kendhuli](https://github.com/manjumk3108): *The Political Economy of Industrial Policy*
 
+Thanks.
