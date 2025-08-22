@@ -12,6 +12,8 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Qusai Alrabadi](https://github.com/QALRAB): _Review on: The Phillips Curve and Global Inflationary Pressures_
 - [Sonali Agrawal](https://github.com/SonaliAgraw): _Data Science report Presentation Vitthal-Shukla Sonali-Agrawal Huber_
 - [Vitthal Shukla](https://github.com/VitthalGit): _Exploring Well Being in the UK between 2011 and 2014_
+- Nimra Umer | @nimraumer | Reproducing “An Introduction to Deep Learning” by Goodfellow et al.
+
 - [Katharina Wagner](https://github.com/Katwag99): _Measuring Human Capital_
 - [Shekoofeh Ansari](https://github.com/shekoofehansari): _Diabetes and Related Factors_
 - [Mona Claßen](https://github.com/monaongit): _COVID-19, School Closures, and Outcomes_
@@ -45,5 +47,8 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Pooja Ravanasamuthram Krishnan](https://github.com/PoojaKrishnan1007): _Economic Sanctions: Evolution, Consequences, and Challenges_
 - [Mahsa Abdollahi Mirzanagh](https://github.com/MahsaAbdollahiM): _Neighborhoods Matter: Assessing the Evidence for Place Effects_
 - [Venkatesh Kannan](https://github.com/VenkateshKannan1999): _The Puzzle of Falling Birthrates in the USA_
+- [Abdalla Mohamed](https://github.com/abdalla-mohamed36): _The Political Economy of Industrial Policy_ 
+- [Anvith Amin](https://github.com/anvitho07): _The Political Economy of Industrial Policy_
+- [Manjunath Mallikarjun Kendhuli](https://github.com/manjumk3108): *The Political Economy of Industrial Policy*
+
 Thanks.
-  
