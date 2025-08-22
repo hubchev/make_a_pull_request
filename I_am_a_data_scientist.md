@@ -15,6 +15,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - Nimra Umer | @nimraumer | Reproducing “An Introduction to Deep Learning” by Goodfellow et al.
 
 - [Katharina Wagner](https://github.com/Katwag99): _Measuring Human Capital_
+- [Tawanda Nhundu](https://github.com/tjnh-sci): _Immigration and Crime: An International Perspective_
 - [Shekoofeh Ansari](https://github.com/shekoofehansari): _Diabetes and Related Factors_
 - [Mona Claßen](https://github.com/monaongit): _COVID-19, School Closures, and Outcomes_
 - [Valeria Ortega Porles](https://github.com/VaalOP): _Hacking Gender Stereotypes: Girls’ Participation in Coding Clubs_
