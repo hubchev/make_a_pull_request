@@ -46,5 +46,6 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Venkatesh Kannan](https://github.com/VenkateshKannan1999): _The Puzzle of Falling Birthrates in the USA_
 - [Abdalla Mohamed](https://github.com/abdalla-mohamed36): _The Political Economy of Industrial Policy_ 
 Thanks.
-- [Anvith Amin](https://github.com/anvitho07): _The Political Economy of Industrial
-Policy_
+- [Anvith Amin](https://github.com/anvitho07): _The Political Economy of Industrial Policy_
+- [Manjunath Mallikarjun Kendhuli](https://github.com/manjumk3108): *The Political Economy of Industrial Policy*
+
