@@ -45,4 +45,5 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Mahsa Abdollahi Mirzanagh](https://github.com/MahsaAbdollahiM): _Neighborhoods Matter: Assessing the Evidence for Place Effects_
 - [Venkatesh Kannan](https://github.com/VenkateshKannan1999): _The Puzzle of Falling Birthrates in the USA_
 Thanks.
-
+- [Anvith Amin](https://github.com/anvitho07): _The Political Economy of Industrial
+Policy_
