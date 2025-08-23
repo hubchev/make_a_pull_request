@@ -10,6 +10,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Gina Overath](https://github.com/gover1312): _Women in Economics: Stalled Progress_
 - [Felix Meven](https://github.com/Flix1000): _Profiting from Regulation: Evidence from the European Carbon Market_
 - [Qusai Alrabadi](https://github.com/QALRAB): _Review on: The Phillips Curve and Global Inflationary Pressures_
+- [Alireza Sadeghi](https://github.com/Alireza-sd7899): -Strategic thinking skills
 - [Sonali Agrawal](https://github.com/SonaliAgraw): _Data Science report Presentation Vitthal-Shukla Sonali-Agrawal Huber_
 - [Vitthal Shukla](https://github.com/VitthalGit): _Exploring Well Being in the UK between 2011 and 2014_
 - Nimra Umer | @nimraumer | Reproducing “An Introduction to Deep Learning” by Goodfellow et al.
