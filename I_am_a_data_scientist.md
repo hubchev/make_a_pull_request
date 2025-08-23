@@ -26,6 +26,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Shekoofeh Ansari](https://github.com/shekoofehansari3): _Improving Efficiency of Delivery Time Prediction_
 - [Paras Negi](https://github.com/ParasNegi88): _Five Facts about Value-Added Exports and Implications for Macroeconomics and  Trade Research_
 - [Cedric Walberger](https://github.com/cedricwalberger): _Constraints on City and Neighborhood Growth: The Central Role of Housing Supply_
+- [Tony Osei Attefah] [@Nanaosei95](https://github.com/Nanaosei95) ["Competition in Pricing Algorithms" by Brown & MacKay (2023)]
 - [Ashifuddin Mandal](https://github.com/Ashifuddinmandal?tab=repositories): _Analyses Of LNG Plant Constructions Engineering Deliverables Progress, Planned & Forecast_
 - [Yashashree Balwadkar](https://github.com/BalwadkarYashashree): _Brexit: The Economics of International Disintegration_
 - [Bahar Dabir](https://github.com/BaharDabir/): _Business Resilience During Covid-19_
