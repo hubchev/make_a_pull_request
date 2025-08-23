@@ -48,6 +48,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Sanjeev Nagadadinni] (https://github.com/Sanjeev0906198): _The Rise of Research Teams: Benefits and Costs in Economics_
 - [Pooja Ravanasamuthram Krishnan](https://github.com/PoojaKrishnan1007): _Economic Sanctions: Evolution, Consequences, and Challenges_
 - [Mahsa Abdollahi Mirzanagh](https://github.com/MahsaAbdollahiM): _Neighborhoods Matter: Assessing the Evidence for Place Effects_
+- [Christian Faruk Rodriguez Casas](https://github.com/christianfcasas): _Competition in Pricing Algorithms_
 - [Venkatesh Kannan](https://github.com/VenkateshKannan1999): _The Puzzle of Falling Birthrates in the USA_
 - [Abdalla Mohamed](https://github.com/abdalla-mohamed36): _The Political Economy of Industrial Policy_ 
 - [Anvith Amin](https://github.com/anvitho07): _The Political Economy of Industrial Policy_
