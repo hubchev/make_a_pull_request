@@ -1,6 +1,6 @@
 # I am a data scientist
 
-Please put your first and second name here, link it to your GitHub profile, and provide the title of the paper that you aim to reproduce.
+* [Zahra Azimi Khalegh](https://github.com/zahra1992-azimi): *Learning R for Data Analysis*
 
 * [Stephan Huber](https://github.com/hubchev): *Title of the paper*
 * [Phromphorn Phornmahachai](https://github.com/ploypmpn): *The Ongoing Evolution of US Retail a Format Tug of War*
