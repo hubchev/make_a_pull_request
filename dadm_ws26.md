@@ -8,3 +8,4 @@ which appears like that:
 
 [hubchev](https://github.com/hubchev): [Presentation and Handout Guidelines](https://github.com/hubchev/dadm_ws26)
 
+| heidi47 | https://heidi47.github.io/-/ |
