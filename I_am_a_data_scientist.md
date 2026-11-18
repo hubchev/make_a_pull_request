@@ -44,6 +44,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 * [Ankita Gairola](https://github.com/AnkitaGairola): *Factor Immobility and Regional Impacts of Trade Liberalization: Evidence on Poverty from India*
 * [Prashanth Antony](https://github.com/Prashanthantony): *The Judge, the Politician, and the Press: Newspaper Coverage and Criminal Sentencing across Electoral Systems*
 * [Rebecca Tevar](https://github.com/RebeccaTevar): *Selection in Health Insurance Markets and Its Policy Remedies*
+* [Tiago Moura](https://github.com/camti4251/quarto-presentation): *Literate Programming with Quarto*
 * [Yash Gupta](https://github.com/yash8372): *Every Day Is Earth Day: Evidence on the Long-Term Impact of Environmental Activism*
 * \[Sanjeev Nagadadinni] (https://github.com/Sanjeev0906198): *The Rise of Research Teams: Benefits and Costs in Economics*
 * [Pooja Ravanasamuthram Krishnan](https://github.com/PoojaKrishnan1007): *Economic Sanctions: Evolution, Consequences, and Challenges*
