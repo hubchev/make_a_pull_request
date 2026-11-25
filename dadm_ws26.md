@@ -14,3 +14,5 @@ which appears like that:
 [heidi47](https://github.com/heidi47): [Version Control and RStudio](https://heidi47.github.io)
 
 [NinaSchenk](https://github.com/NinaSchenk): [R Control Flow Statements and Flow Charts](https://ninaschenk.github.io/handout%20r.html)
+
+[Gurbanov21](https://github.com/Gurbanov21): [Factor Analysis for Business Decision-Making Using R](https://github.com/Gurbanov21/dadm_factor_analysis)
